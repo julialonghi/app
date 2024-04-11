@@ -1,0 +1,6 @@
+"icon": "./assets/img/icone.png",
+"splash": {
+  "image": "./assets/img/aplicativo.png",
+  "resizeMode": "cover",
+  "backgroundColor": "#000"
+},
